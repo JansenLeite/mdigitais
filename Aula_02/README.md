@@ -10,7 +10,7 @@
 	
 # Conceitos Abordados:
 
-- Tratamento de Imagens.
+- Tratamento de Imagens.<br />
     &emsp;Remoção de Manchas.<br />
     &emsp;Matriz de cores.<br />
     &emsp;Escala preto e branco.<br />
