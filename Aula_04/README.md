@@ -25,4 +25,4 @@
 
 <h3>PineTolls</h3>
 <label>Aplicação gratuita Web para recorte de imagem no formato Caroussel.</label>
-<a href="https://github.com/JansenLeite/mdigitais/blob/main/Aula_01/MDIG_01_Introducao_M%C3%ADdias%20Digitais.pdf">Clique aqui para acessar o PineTolls<a>
+<a href="https://pinetools.com/split-image">Clique aqui para acessar o PineTolls<a>
