@@ -1,4 +1,4 @@
-# Criação e Edição de imagens para Mídias Sociais: Aula 02
+# Criação e Edição de imagens para Mídias Sociais: Aula 03
 
 - 2.0. Introdução ao Canva.<br />
     &emsp;2.7. Preenchimento Cor e Degradê.<br />
