@@ -3,7 +3,7 @@ Material de Estudo para o Curso de Criação e Edição de Imagens para Midias S
 
 <b>Profº Jansen Leite</b><br />
 
-<h3>Plano de Curso</h3>
+<h3>PLANO DO CURSO</h3>
 
 <h5>OBJETIVO:</h5>
 <label>
