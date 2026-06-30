@@ -30,3 +30,6 @@
 <h5>ATIVIDADE 03:</h5>
 <label>Você deverá criar uma Capa para o Youtube de um canal sob o tema Livre.</label><br />
 
+<h4>OBSERVAÇÃO:</h4>
+<label>Todas as atividades deverão ser entregues via CANVA para o e-mail do professor: jansen.leite@sp.senai.br.</label>
+
