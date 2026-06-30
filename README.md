@@ -20,21 +20,21 @@ Material de Estudo para o Curso de Criação e Edição de Imagens para Midias S
     &emsp;1.3. Formatos de Arquivo<br />
 
 - 2.0. Introdução ao Canva.<br />
-    &emsp;Área de Trabalho.<br />
-    &emsp;Camadas: Transparência, transformações e organização.<br />
-    &emsp;Ferramenta Mover.<br />
-    &emsp;Transformação Livre.<br />
-    &emsp;Máscara de Camada.<br />
-    &emsp;Efeitos de Camada.<br />
-    &emsp;Preenchimento Cor e Degradê.<br />
-    &emsp;Ferramentas de Seleção automática: Varinha, Seleção Rápida e Seleção de Objeto.<br />
-    &emsp;Ferramentas de Seleção: Laço e Seleção geométrica.<br />
-    &emsp;Painel Amostras, Cores e Seletor de Cores.<br />
-    &emsp;Ferramenta Texto / Tipografia.<br />
-    &emsp;Ferramentas Vetorias no Canva.<br />
-    &emsp;Formas Geométricas e Ferramentas Caneta.<br />
-    &emsp;Introdução aos ajustes.<br />
-    &emsp;Introdução aos modos de mesclagem.<br />
+    &emsp;2.1. Área de Trabalho.<br />
+    &emsp;2.2. Camadas: Transparência, transformações e organização.<br />
+    &emsp;2.3. Ferramenta Mover.<br />
+    &emsp;2.4. Transformação Livre.<br />
+    &emsp;2.5. Máscara de Camada.<br />
+    &emsp;2.6. Efeitos de Camada.<br />
+    &emsp;2.7. Preenchimento Cor e Degradê.<br />
+    &emsp;2.8. Ferramentas de Seleção automática: Varinha, Seleção Rápida e Seleção de Objeto.<br />
+    &emsp;2.9. Ferramentas de Seleção: Laço e Seleção geométrica.<br />
+    &emsp;2.10. Painel Amostras, Cores e Seletor de Cores.<br />
+    &emsp;2.11. Ferramenta Texto / Tipografia.<br />
+    &emsp;2.12. Ferramentas Vetorias no Canva.<br />
+    &emsp;2.13. Formas Geométricas e Ferramentas Caneta.<br />
+    &emsp;2.14. Introdução aos ajustes.<br />
+    &emsp;2.15. Introdução aos modos de mesclagem.<br />
 
 - 3.0. Layouts para publicação.<br />
     &emsp;3.1. Configurações de arquivos para mídias diversas.<br />
