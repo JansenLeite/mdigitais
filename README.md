@@ -44,7 +44,7 @@ Material de Estudo para o Curso de Criação e Edição de Imagens para Midias S
     &emsp;3.7. Exportação de arquivos.<br />
 
 
-<h5>CONHECIMENTOS ADQUIRIDOS:</h5>
+<h5>Grupo no CANVA</h5>
 
 <a href="https://www.canva.com/brand/join?token=ZVr01nyj7SfeZ9n2DePoJg&brandingVariant=edu&invitationDestinationType=group">Clique aqui para entrar no grupo<a>
 
