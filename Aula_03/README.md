@@ -31,5 +31,5 @@
 <label>Você deverá criar uma Capa para o Youtube de um canal sob o tema Livre.</label><br />
 
 <h4>OBSERVAÇÃO:</h4>
-<label>Todas as atividades deverão ser entregues via CANVA para o e-mail do professor: jansen.leite@sp.senai.br.</label>
+<label>Todas as atividades deverão ser <b>entregues via CANVA</b> para o e-mail do professor: <b>jansen.leite@sp.senai.br</b></label>
 
