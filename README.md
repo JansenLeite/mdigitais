@@ -13,11 +13,12 @@ Material de Estudo para o Curso de Criação e Edição de Imagens para Midias S
 <h6>CARGA HORÁRIA: 20 horas</h6>
 
 <h6>CONHECIMENTOS:</h6>
+
 - 1.0. Introdução a imagem digital.<br />
     &emsp;1.1. Arquivos de imagens digitais: Bitmap x Vetorial.<br />
     &emsp;1.2. Sistema de Cores: RGB x CMYK.<br />
     &emsp;1.3. Formatos de Arquivo<br />
-    
+
 - 2.0. Introdução ao Canva.<br />
     &emsp;Área de Trabalho.<br />
     &emsp;Camadas: Transparência, transformações e organização.<br />
@@ -36,10 +37,10 @@ Material de Estudo para o Curso de Criação e Edição de Imagens para Midias S
     &emsp;Introdução aos modos de mesclagem.<br />
 
 - 3.0. Layouts para publicação.<br />
-    &emsp;Configurações de arquivos para mídias diversas.<br />
-    &emsp;Pranchetas.<br />
-    &emsp;Linhas-guia: Dimensões, referências e limites.<br />
-    &emsp;Ajuste de imagem para publicação.<br />
-    &emsp;Molduras, quadros e outros adereços de mídia.<br />
-    &emsp;Efeitos para textos.<br />
-    &emsp;Exportação de arquivos.<br />
+    &emsp;3.1. Configurações de arquivos para mídias diversas.<br />
+    &emsp;3.2. Pranchetas.<br />
+    &emsp;3.3. Linhas-guia: Dimensões, referências e limites.<br />
+    &emsp;3.4. Ajuste de imagem para publicação.<br />
+    &emsp;3.5. Molduras, quadros e outros adereços de mídia.<br />
+    &emsp;3.6. Efeitos para textos.<br />
+    &emsp;3.7. Exportação de arquivos.<br />
