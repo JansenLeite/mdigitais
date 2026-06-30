@@ -1,18 +1,18 @@
-# CRIAÇÃO E EDIÇÃO IMAGENS PARA MÍDIAS SOCIAIS
+# Criação e Edição de imagens para Mídias Sociais
 Material de Estudo para o Curso de Criação e Edição de Imagens para Midias Sociais - SENAI Jaguariúna.
 
 <b>Profº Jansen Leite</b><br />
 
 <h3>Plano de Curso</h3>
 
-<h6>Objetivo:</h6>
+<h6>OBJETIVO:</h6>
 <label>
     O objetivo deste curso é apresentar técnicas de criação e edição de efeitos imagens para divulgação em mídias sociais. O aluno vai aprender os passos de como criar uma imagem, formatação e exportação de arquivos.
 </label>
 
-<h6>Carga Horária: 20 horas</h6>
+<h6>CARGA HORÁRIA: 20 horas</h6>
 
-<h6>Conhecimentos:</h6>
+<h6>CONHECIMENTOS:</h6>
 - 1.0. Introdução a imagem digital.<br />
     &emsp;1.1. Arquivos de imagens digitais: Bitmap x Vetorial.<br />
     &emsp;1.2. Sistema de Cores: RGB x CMYK.<br />
