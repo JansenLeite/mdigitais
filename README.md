@@ -5,14 +5,14 @@ Material de Estudo para o Curso de Criação e Edição de Imagens para Midias S
 
 <h3>Plano de Curso</h3>
 
-<h6>OBJETIVO:</h6>
+<h5>OBJETIVO:</h5>
 <label>
     O objetivo deste curso é apresentar técnicas de criação e edição de efeitos imagens para divulgação em mídias sociais. O aluno vai aprender os passos de como criar uma imagem, formatação e exportação de arquivos.
 </label>
 
-<h6>CARGA HORÁRIA: 20 horas</h6>
+<h5>CARGA HORÁRIA: 20 horas</h5>
 
-<h6>CONHECIMENTOS:</h6>
+<h5>CONHECIMENTOS:</h5>
 
 - 1.0. Introdução a imagem digital.<br />
     &emsp;1.1. Arquivos de imagens digitais: Bitmap x Vetorial.<br />
