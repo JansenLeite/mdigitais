@@ -21,12 +21,12 @@
 # Atividade Individual
 <label>Considere seus conhecimentos Mídias Digitais até aqui. Leve em consideração os conceitos abordados em sala de aula e desenvolva as atividades propostas pelo time no Canva.</label><br />
 
-<h5>Atividade 1:</h5>
+<h5>ATIVIDADE 01:</h5>
 <label>Você deverá criar uma postagem para o Instagram de uma Hamburgueria sugerindo uma promoção.</label><br />
 
-<h5>Atividade 2:</h5>
-<label>Você deverá criar uma Capa para o Facebook de um canal sob o tema Livre.</label><br />
+<h5>ATIVIDADE 02:</h5>
+<label>Você deverá criar uma Capa para o Facebook (considerando Banner Principal e Profile) sob o tema Livre.</label><br />
 
-<h5>Atividade 3:</h5>
+<h5>ATIVIDADE 03:</h5>
 <label>Você deverá criar uma Capa para o Youtube de um canal sob o tema Livre.</label><br />
 
