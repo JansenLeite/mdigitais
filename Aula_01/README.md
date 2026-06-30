@@ -1,4 +1,4 @@
-# Criação e Edição de imagens para Mídias Sociais: 1.0. Introdução a imagem digital.
+# Criação e Edição de imagens para Mídias Sociais: Aula 01
 
 - 1.0. Introdução a imagem digital.<br />
 	&emsp;1.1. Arquivos de imagens digitais: Bitmap x Vetorial.<br />
