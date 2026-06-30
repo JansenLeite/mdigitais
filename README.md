@@ -42,3 +42,10 @@ Material de Estudo para o Curso de Criação e Edição de Imagens para Midias S
     &emsp;3.5. Molduras, quadros e outros adereços de mídia.<br />
     &emsp;3.6. Efeitos para textos.<br />
     &emsp;3.7. Exportação de arquivos.<br />
+
+
+<h5>CONHECIMENTOS ADQUIRIDOS:</h5>
+
+<a href="https://www.canva.com/brand/join?token=ZVr01nyj7SfeZ9n2DePoJg&brandingVariant=edu&invitationDestinationType=group">Clique aqui para entrar no grupo<a>
+
+
