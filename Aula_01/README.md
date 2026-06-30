@@ -7,8 +7,8 @@
 	
 # Material de Apoio:
 
-<h3>Instrução à Mídias Digitais</h3>
-<a href="">Clique aqui para acessar o material<a>
+<h3>Introdução à Mídias Digitais</h3>
+<a href="https://github.com/JansenLeite/mdigitais/blob/main/Aula_01/MDIG_01_Introducao_M%C3%ADdias%20Digitais.pdf">Clique aqui para acessar o material<a>
 
 
 # Atividade Individual
